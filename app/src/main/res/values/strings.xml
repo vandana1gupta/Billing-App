@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JBE Electicals</string>
+    <string-array name="items">
+        <item>    </item>
+        <item>1   </item>
+        <item>2   </item>
+        <item>3   </item>
+        <item>4   </item>
+        <item>5   </item>
+    </string-array>
+
+    <string-array name="service">
+        <item>select</item>
+        <item>buy</item>
+        <item>repair</item>
+    </string-array>
+</resources>
